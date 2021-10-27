@@ -10,3 +10,8 @@ Issues resolved :
 https://stackoverflow.com/questions/67341914/error-send-and-transfer-are-only-available-for-objects-of-type-address-payable
 
 https://github.com/ethereum/solidity/issues/4020
+
+#
+How does truffle know which account to charge gas fee while deploying ?
+
+https://ethereum.stackexchange.com/questions/58588/how-does-truffle-know-which-address-to-send-a-contract-being-migrated-and-which
