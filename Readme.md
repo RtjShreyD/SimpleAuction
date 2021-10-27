@@ -15,3 +15,11 @@ https://github.com/ethereum/solidity/issues/4020
 How does truffle know which account to charge gas fee while deploying ?
 
 https://ethereum.stackexchange.com/questions/58588/how-does-truffle-know-which-address-to-send-a-contract-being-migrated-and-which
+
+# Todo
+
+1. Implement the /bid and /highest-bid routes
+2. Find a way to catch the sol emitted event in Python
+3. Connect app with Metamask
+4. Write tests
+5. Deploy app to production
